@@ -1,0 +1,12 @@
+{
+    "name": "igor/rieltor",
+    "require": {
+        "laravel/laravel": "^8.5"
+    },
+    "authors": [
+        {
+            "name": "Ihor Khalupniak",
+            "email": "58263624+Ihor18@users.noreply.github.com"
+        }
+    ]
+}
